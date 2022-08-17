@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-Ra0Hj-OW1z](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-Ra0Hj-OW1z)
+- Live Site URL: [https://pronajitdey.github.io/QR-code-component/](https://pronajitdey.github.io/QR-code-component/)
 
 ## My process
 
@@ -33,6 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Pronajit Dey
+- Frontend Mentor - [@pronajitdey](https://www.frontendmentor.io/profile/pronajitdey)
+- Twitter - [@PronajitDey](https://twitter.com/PronajitDey)
